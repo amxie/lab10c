@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.980e4c6e.css","mappings":"AAAA,EAEE,wBAAgC,CAChC,yCAA8C,CAF9C,iBAGF,CAEA,OACE,qBACF","sources":["index.css"],"sourcesContent":["*{\n  text-align: center;\n  background-color: cornflowerblue;\n  font-family: 'Courier New', Courier, monospace;\n}\n\nbutton{\n  background-color: white;\n}\n"],"names":[],"sourceRoot":""}
